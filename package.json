@@ -1,0 +1,14 @@
+{
+  "name": "on-air",
+  "version": "1.0.0",
+  "description": "Turn on smart switch when MacOS web cam is in use",
+  "main": "on-air.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Cave",
+  "license": "ISC",
+  "dependencies": {
+    "tplink-smarthome-api": "^4.2.0"
+  }
+}
